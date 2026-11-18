@@ -1,5 +1,5 @@
-# Business_Data_Management_Capstone_Project - Retail Operations & Inventory Analytics
-### *A Data-Driven Business Analytics & Demand Forecasting Framework*
+# Business_Data_Management_Capstone_Project
+### Optimizing Retail Operation for BLS Amar Communication and Online Services: A Data-Driven Business Development Approach
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
